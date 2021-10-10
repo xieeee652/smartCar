@@ -33,4 +33,8 @@ lower portion: driver’s vision field has been improved after turning on the ap
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
-108360106
+
+
+![image](https://github.com/xieeee652/smartCar/blob/master/image/image7.png?raw=true)
+
+Figure 8 A moving-platform-based human tracking system.
