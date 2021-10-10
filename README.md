@@ -1,4 +1,4 @@
-# smartCar 108360106
+# smartCar 
 The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
 
 
@@ -24,6 +24,7 @@ Figure 4. Layout combination of the transparent windshield display
 Figure 5. Manipulation of visibility restoration application in the Smart Car. Upper portion:
 driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
 lower portion: driver’s vision field has been improved after turning on the application.
+108360106
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
 
