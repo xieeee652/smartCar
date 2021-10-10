@@ -36,4 +36,4 @@ before and after using the application.
 
 ![image](https://github.com/xieeee652/smartCar/blob/master/image/image7.png?raw=true)
 
-Figure 8 A moving-platform-based human tracking system.
+Figure 7. A moving-platform-based human tracking system.
